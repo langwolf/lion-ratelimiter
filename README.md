@@ -1,7 +1,5 @@
 # lion-ratelimiter
 
-https://www.jianshu.com/p/7645bf48df8d
-
 ### 1. Make Jar
 
 mvn package
@@ -17,5 +15,9 @@ public void test() throws Exception {
 ```
 
 
+https://www.jianshu.com/p/7645bf48df8d
 
+guava ratelimiter
+
+![image](https://github.com/langwolf/smart-dispatch/blob/master/dispatch.png)
 
