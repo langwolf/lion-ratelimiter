@@ -19,5 +19,5 @@ https://www.jianshu.com/p/7645bf48df8d
 
 guava ratelimiter
 
-![image](https://github.com/langwolf/lion-ratelimiter/blob/master/Guava-SmoothwarmingUp.png)
+![image](https://github.com/langwolf/lion-ratelimiter/blob/master/SmoothwarmingUp.png)
 
