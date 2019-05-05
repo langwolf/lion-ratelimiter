@@ -4,7 +4,9 @@
 
 mvn package
 
-### 2. Add Annotation
+### 2. Consul Config
+
+### 3. Add Annotation
 
 ```
 @RateLimiterReq(key = "test")
