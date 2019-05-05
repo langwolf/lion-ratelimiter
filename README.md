@@ -1,7 +1,5 @@
 # lion-ratelimiter
 
-## Quick Start
-
 ### 1. Make Jar
 
 mvn package
